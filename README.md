@@ -1,2 +1,2 @@
 # phys414_project
-This repository includes the python codes for the final project of PHYS 414.
+This repository includes the Jupyter Notebook files and the report for the final project of PHYS 414.
